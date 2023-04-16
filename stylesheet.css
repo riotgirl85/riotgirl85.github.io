@@ -23,8 +23,7 @@ body { color: #ffffff; font: sans-serif; font-size: 16px; margin: 0;
     line-height: 1.2;
 }
 .right {
-  position: absolute;
-  right: 0px;
-  width: 50%;
+  float: right;
+  width: 40%;
   padding: 10px;
 }
