@@ -7,13 +7,15 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     Author     : becky
 */
 
-.background { background-color: #000000;
+background  { background-image: url("images/earth2.png")
+}
+.background { background-color: #000000; 
 
 }
 
 body.font { color: #ffffff; font: sans-serif; font-size: medium;
 
 }
-title { font-size: larger; text-align: center; 
+.title { font-size: larger; text-align: center; font: 20px; 
     
 }
