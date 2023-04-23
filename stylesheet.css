@@ -47,6 +47,11 @@ body { color: #ffffff;
   padding: 10px;
 }
 
+img {
+  width: 80%;
+  height: auto;
+}
+
 .left {
   float: left;
   width: 40%;
