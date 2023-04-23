@@ -48,12 +48,11 @@ body { color: #ffffff;
 }
 
 img {
-  width: 80%;
+  width: 70%;
   height: auto;
 }
 
 .left {
-  float: left;
   margin: auto;
   width: 50%;
   padding: 10px 10px;
